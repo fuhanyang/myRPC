@@ -1,0 +1,9 @@
+go 1.23.3
+use (
+	codec
+	client
+	server
+	registry
+	services
+	discovery
+)
